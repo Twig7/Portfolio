@@ -1,34 +1,29 @@
-# _{Application Name}_
+# _Portfolio_
 
-#### By _**{List of contributors}**_
+#### By _**Amber Wilwand**_
 
-#### _{Brief description of application}_
+#### _This is the front page of what will become my portfolio! It links to beginner projects I've done, as well as provides a little background information about myself!_
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _HTML_
+* _css_
+* _Bootstrap_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_This application is the front page of my portfolio, still in progress! It shares my background information, (Past education, current hobbies and interests, etc), and provides links to past projects I've done to practice different elements learned at Epicodus!_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+* _Clone index.html to desktop_
+* _Scroll to the top of the directory_
+* _Run program through Google Chrome browser_
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _Bolded sentence in "Current interests" border not centered within border._
+
 
 ## License
 
