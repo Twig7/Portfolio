@@ -1,8 +1,30 @@
 img {
   height: 373px;
   width: 200px;
+  border: 2px solid #87d1c9;
 }
 
 .hobbies {
   float: right;
+  border: 2px solid #87d1c9; 
+  box-sizing: border-box;
+  
+}
+
+.hobbytop {
+  text-align: center;
+  align-items: center;
+}
+
+.hobbylist {
+  white-space: nowrap;
+}
+
+.Aboutme {
+  margin-top: 25px;
+  text-align: center;
+}
+
+.projectheader {
+  text-align: center;
 }
