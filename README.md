@@ -27,6 +27,6 @@ _This application is the front page of my portfolio, still in progress! It share
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Questions/Concerns? Email me at 1234@internet.com_
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) _10/23/2021_ _Amber Wilwand_
