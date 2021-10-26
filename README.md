@@ -16,9 +16,9 @@ _This application is the front page of my portfolio, still in progress! It share
 
 ## Setup/Installation Requirements
 
-* _Clone index.html to desktop_
-* _Scroll to the top of the directory_
-* _Run program through Google Chrome browser_
+* _Clone this repo to desktop_
+* _Navigate to the top of the directory_
+* _Run index.html through Google Chrome browser_
 
 ## Known Bugs
 
