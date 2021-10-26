@@ -1,7 +1,8 @@
 img {
   height: 373px;
   width: 200px;
-  border: 2px solid #87d1c9;
+  border: 5px solid #87d1c9;
+  padding: 5px;
 }
 
 .hobbies {
