@@ -23,7 +23,7 @@ _This application is the front page of my portfolio, still in progress! It share
 ## Known Bugs
 
 * _Bolded sentence in "Current interests" border not centered within border._
-*_styles.css additions don't show up on gh-page._
+* _styles.css additions don't show up on gh-page._
 
 ## Github page can be found [Here](https://twig7.github.io/Portfolio/)
 
